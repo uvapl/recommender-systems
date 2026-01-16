@@ -1,0 +1,9 @@
+Voorbereidingen:
+    Lees nog even goed de studiewijzer: /
+    Installatie: /install
+
+"Module 1: Collaborative filtering met kNN":
+    Implementeer kNN: /module1/knn
+    Evalueer het Recommender System: /module1/evaluation
+    Gebruik een grote dataset: /module1/real-data
+    
