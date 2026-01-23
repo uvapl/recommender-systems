@@ -90,36 +90,34 @@ Dit is *het* moment om te laten zien dat je een **informatiekundige** bent. In d
 
 Je wordt beoordeeld op **drie onderdelen**: Technische kwaliteit, Kritische reflectie en Integratie.
 
-#### 1. Technische kwaliteit
+1. **Technische kwaliteit**
 
-(Gebruikmakend van technieken en inzichten uit de notebooks en colleges van Simon — of daar aantoonbaar voorbijgaand.)
+    (Gebruikmakend van technieken en inzichten uit de notebooks en colleges van Simon — of daar aantoonbaar voorbijgaand.)
 
-Voorbeelden:
+    Voorbeelden:
 
-* Het project bevat een **deugdelijke data-analyse**.
-* Er worden specifieke **metrics ontworpen**.
-* Er wordt een **RS geïmplementeerd**.
-* Aspecten van een bestaande **RS wordt aangepast**.
+    * Het project bevat een **deugdelijke data-analyse**.
+    * Er worden specifieke **metrics ontworpen**.
+    * Er wordt een **RS geïmplementeerd**.
+    * Aspecten van een bestaande **RS wordt aangepast**.
+2. **Kritische reflectie**
 
-#### 2. Kritische reflectie
+    (Aansluitend op de stof uit Dina’s colleges — of deze verdiepend en uitbreidend.)
 
-(Aansluitend op de stof uit Dina’s colleges — of deze verdiepend en uitbreidend.)
+    Voorbeelden:
 
-Voorbeelden:
+    * Je laat zien dat je de **maatschappelijke context** begrijpt waarin het recommender system wordt toegepast.
+    * Je gebruikt **relevante literatuur** om aannames, effecten of risico’s te bespreken.
+    * Je reflecteert kritisch op aspecten zoals fairness, uitsluiting, filter-bubbles, etc.
+3. **Integratie**
 
-* Je laat zien dat je de **maatschappelijke context** begrijpt waarin het recommender system wordt toegepast.
-* Je gebruikt **relevante literatuur** om aannames, effecten of risico’s te bespreken.
-* Je reflecteert kritisch op aspecten zoals fairness, uitsluiting, filter-bubbles, etc.
+    (Hoe goed informeren de technische en maatschappelijke kant elkaar?)
 
-#### 3. Integratie
+    Voorbeelden:
 
-(Hoe goed informeren de technische en maatschappelijke kant elkaar?)
-
-Voorbeelden:
-
-* Je gebruikt **technische resultaten** om een **maatschappelijke claim** te onderbouwen of ter discussie te stellen.
-* Je vertaalt een **maatschappelijk concept** naar een concrete ontwerpkeuze, *metric* of onderliggende technische aanname.
-* Je reflecteert op **beperkingen of bias** die voortkomen uit technische keuzes, en wat deze betekenen in maatschappelijke termen.
+    * Je gebruikt **technische resultaten** om een **maatschappelijke claim** te onderbouwen of ter discussie te stellen.
+    * Je vertaalt een **maatschappelijk concept** naar een concrete ontwerpkeuze, *metric* of onderliggende technische aanname.
+    * Je reflecteert op **beperkingen of bias** die voortkomen uit technische keuzes, en wat deze betekenen in maatschappelijke termen.
 
 #### Specialisatie binnen het team
 
