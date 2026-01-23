@@ -1,9 +1,25 @@
 Voorbereidingen:
     Lees nog even goed de studiewijzer: /
-    Installatie: /install
+    Installatie: /week0/install
 
-"Module 1: Collaborative filtering met kNN":
-    Implementeer kNN: /module1/knn
-    Evalueer het Recommender System: /module1/evaluation
-    Gebruik een grote dataset: /module1/real-data
+"Week 1":
+    Implementeer kNN (voor aanbevelingen van films): /week1/knn
+    Evalueer het Recommender System: /week1/evaluation
+
+"Week 2":
+    Gebruik een grote dataset (films): /week2/real-data
+    Content-based filtering met TF-IDF (nieuws): /week2/tf-idf
+
+"Week 3":
+    Content-based filtering met word2vec (nieuws): /week3/word2vec
+    Content-based filtering van catgorische data (nieuws): /week3/jaccard
+
+"Week 4":
+    Matrices (film genres): /week4/matrices 
+    Matrixfactorisatie (film - latente features): /week4/factorisatie 
     
+"Week 5":
+    Filter-bubbles en diversiteit: /week5/diversity
+
+"Week 6 - 7":
+    Teamproject: /week6-7/project

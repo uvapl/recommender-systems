@@ -1,4 +1,6 @@
-# Test kNN op een grote dataset
+# Echte Data
+
+Test kNN op een grotere dataset.
 
 [download notebook](/notebooks/real-data.ipynb)
 
