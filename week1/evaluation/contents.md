@@ -4,5 +4,10 @@ Hoe weten of een RS goed functioneert?
 
 [download notebook](https://github.com/uvapl/recommender-systems/raw/refs/heads/main/notebooks/evaluation.ipynb)
 
-<a href ="https://github.com/uvapl/recommender-systems/raw/refs/heads/main/notebooks/evaluation.ipynb" download>download2</a>
+> To download the file (instead of opening it in a new tab), use:
+>
+> * **macOS:** Option (⌥) + Click
+> * **Windows / Linux:** Alt + Click
+>
+> *If this does not work in your browser, right-click the link and choose **“Save Link As…”***
 
