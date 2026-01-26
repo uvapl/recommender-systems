@@ -3,7 +3,8 @@
 ### 1. Installeer de conda-omgeving
 
 * Download het environment-bestand:
-  `curl ...`
+  * Gebruik dit commando `curl -L -o environment.yml https://github.com/uvapl/recommender-systems/raw/refs/heads/2025/data/m0/environment.yml`
+  * Of download handmatige: [download](https://github.com/uvapl/recommender-systems/raw/refs/heads/2025/data/m0/environment.yml)
 * Installeer de omgeving:
   `conda env create -f environment.yml`
 * Ruim het bestand op:
