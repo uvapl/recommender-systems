@@ -1,14 +1,18 @@
-# Echte Data
+# Echte data
 
 Test kNN op een grotere dataset.
 
-[download notebook](/notebooks/real-data.ipynb)
+[Download notebook](/notebooks/real-data.ipynb)
 
-### Start Jupyter (als je dat niet al hebt gedaan)
+### Start Jupyter (als je dat nog niet hebt gedaan)
 
-* Zorg ervoor dat je in de juiste conda omgeving zit:
+* Zorg ervoor dat je de juiste conda-omgeving hebt geactiveerd:
 
         conda activate RecSys
-* Run:
 
-        jupter lab
+* Start Jupyter:
+        
+        jupyter lab
+
+* Open vervolgens de notebook
+
