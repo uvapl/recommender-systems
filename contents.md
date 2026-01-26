@@ -56,11 +56,11 @@ De werkcolleges in de laatste twee weken van het vak zijn gereserveerd voor het 
 
 ## Aanwezigheid
 
-**Aanwezigheid hoorcolleges:** De hoorcolleges zijn niet verplicht, maar ze bevatten veel informatie die cruciaal is voor de opdrachten en het tentamen. Ze worden niet opgenomen. Om het vak te halen verwachten we daarom dat je er gewoon bij bent.
-**Aanwezigheid laptopcolleges:** We verwachten voor de laptopcolleges dat je er in principe altijd bent. Je mag er maximaal twee missen.
-**Aanwezigheid vragenuur:** Deze zijn niet verplicht. Je kan hier naartoe als je vragen hebt of als je nog achterstallige opdrachtbesprekingen hebt.
-**Aanwezigheid werkcolleges (week 1 - 5):** We verwachten dat je hier altijd bent. Je wordt ook beoordeeld op actieve participatie tijdens deze colleges. Je mag hier twee colleges missen, maar je kan de gemiste punten niet inhalen.
-**Aanwezigheid werkcolleges (week 7, 8):** Deze colleges zijn cruciaal voor het eindproject. Je kan geen colleges missen.
+* **Aanwezigheid hoorcolleges:** De hoorcolleges zijn niet verplicht, maar ze bevatten veel informatie die cruciaal is voor de opdrachten en het tentamen. Ze worden niet opgenomen. Om het vak te halen verwachten we daarom dat je er gewoon bij bent.
+* **Aanwezigheid laptopcolleges:** We verwachten voor de laptopcolleges dat je er in principe altijd bent. Je mag er maximaal twee missen.
+* **Aanwezigheid vragenuur:** Deze zijn niet verplicht. Je kan hier naartoe als je vragen hebt of als je nog achterstallige opdrachtbesprekingen hebt.
+* **Aanwezigheid werkcolleges (week 1 - 5):** We verwachten dat je hier altijd bent. Je wordt ook beoordeeld op actieve participatie tijdens deze colleges. Je mag hier twee colleges missen, maar je kan de gemiste punten niet inhalen.
+* **Aanwezigheid werkcolleges (week 7, 8):** Deze colleges zijn cruciaal voor het eindproject. Je kan geen colleges missen.
 
 ## Beoordeling
 
@@ -100,6 +100,7 @@ Je wordt beoordeeld op **drie onderdelen**: Technische kwaliteit, Kritische refl
     * Er worden specifieke **metrics ontworpen**.
     * Er wordt een **RS geïmplementeerd**.
     * Aspecten van een bestaande **RS wordt aangepast**.
+
 2. **Kritische reflectie**
 
     (Aansluitend op de stof uit Dina’s colleges — of deze verdiepend en uitbreidend.)
@@ -109,6 +110,7 @@ Je wordt beoordeeld op **drie onderdelen**: Technische kwaliteit, Kritische refl
     * Je laat zien dat je de **maatschappelijke context** begrijpt waarin het recommender system wordt toegepast.
     * Je gebruikt **relevante literatuur** om aannames, effecten of risico’s te bespreken.
     * Je reflecteert kritisch op aspecten zoals fairness, uitsluiting, filter-bubbles, etc.
+
 3. **Integratie**
 
     (Hoe goed informeren de technische en maatschappelijke kant elkaar?)
