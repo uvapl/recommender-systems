@@ -1,20 +1,34 @@
-# Installeer de conda environment
+# Installatie
 
-* Download de environment:
-    `curl ...`
-    `mv environment.txt environment.yml`
-* Installeer:
-    `conda ...`
-* Ruim netjes op:
-    `rm environment.yml`
-* Start omgeving:
-    `conda activate RecSys`
-* Maak een folder waarin je wilt werken (het is het makkelijkste om alle notebooks in dezelfde directory te zetten omdat ze soms dezelfde data bestanden delen)
+### 1. Installeer de conda-omgeving
 
-Je kan vanaf nu alle notebooks runnen in die omgeving
-* Ga naar de directory die je hebt aangemaakt:
-    `cd ~/[jouw folder]`
-* Start omgeving:
-    * Lab: `jupyter lab`
-    * of klassiek: `jupyter notebook`
+* Download het environment-bestand:
+  `curl ...`
+* Installeer de omgeving:
+  `conda env create -f environment.yml`
+* Ruim het bestand op:
+  `rm environment.yml`
+* Activeer de omgeving:
+  `conda activate RecSys`
+
+### 2. Installeer spaCy-modellen
+
+* Voer de volgende commando’s uit om de spaCy-taalmodellen te downloaden:
+
+  ```
+    python -m spacy download en_core_web_sm
+    python -m spacy download en_core_web_md
+  ```
+
+### 3. Start Jupyter
+
+* Maak een map aan waarin je wilt werken. Het is het eenvoudigst om alle notebooks in dezelfde directory te plaatsen, omdat ze soms dezelfde databestanden gebruiken.
+* Vanaf dit moment kun je alle notebooks vanuit deze map uitvoeren.
+* Ga naar de aangemaakte directory:
+  `cd ~/[jouw folder]`
+* Controleer of je de juiste conda-omgeving gebruikt: `(RecSys)`
+* Start Jupyter:
+
+  * JupyterLab: `jupyter lab`
+  * of klassiek: `jupyter notebook`
 
