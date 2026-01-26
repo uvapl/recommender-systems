@@ -27,6 +27,9 @@ grades:
     knn:
         <<: *manual
         calculation: "[(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, 1_dag_te_laat == -1 && 7 || 10, 4_dagen_te_laat == -1 && 5.5 || 10].min"
+    evaluation:
+        <<: *manual
+        calculation: "[(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, 1_dag_te_laat == -1 && 7 || 10, 4_dagen_te_laat == -1 && 5.5 || 10].min"
 
     part_wk1: *participation_check
 
@@ -46,6 +49,7 @@ programmeeropdrachten:
     show_progress: true
     submits:
         knn: 1
+        evaluation: 1
 
 participatie:
     show_progress: true
