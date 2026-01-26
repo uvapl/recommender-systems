@@ -2,31 +2,31 @@ templates:
     1: &manual
         type: float
         subgrades:
-            points: integer
-            late_1_day: boolean
-            late_4_day: boolean
-            way_late: boolean
+            punten: integer
+            1_dag_te_laat: boolean
+            4_dagen_te_laat: boolean
+            veel_te_laat: boolean
         hide_subgrades: false
         hide_calculated: false
 
     2: &manual_exam
         type: float
         subgrades:
-            points: integer
-        calculation: points * 9.0 / 54.0 + 1.0
+            punten: integer
+        calculation: punten * 9.0 / 54.0 + 1.0
         is_test: true
 
     3: &participation_check
         type: float
         subgrades:
-            points: integer
-        calculation: points * 9.0 / 3.0 + 1.0
+            punten: integer
+        calculation: punten * 9.0 / 3.0 + 1.0
         is_test: true
 
 grades:
     knn:
         <<: *manual
-        calculation: "[(points) * 9.0 / 23 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
+        calculation: "[(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, 1_dag_te_laat == -1 && 7 || 10, 4_dagen_te_laat == -1 && 5.5 || 10].min"
 
     part_wk1: *participation_check
 
