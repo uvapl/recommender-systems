@@ -10,4 +10,5 @@ dependencies:
   - pooch=1.8.2
   - jupyterlab=4.4.7
   - ipykernel=6.31.0
+  - ipywidgets=8.1.8
   - matplotlib=3.10.6
