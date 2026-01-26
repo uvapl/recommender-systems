@@ -4,10 +4,21 @@ Hoe weten of een RS goed functioneert?
 
 [download notebook](https://github.com/uvapl/recommender-systems/raw/refs/heads/main/notebooks/evaluation.ipynb)
 
-> To download the file (instead of opening it in a new tab), use:
+> Om het bestand te downloaden (en niet in een nieuwe tab te openen), gebruik:
 >
-> * **macOS:** Option (⌥) + Click
-> * **Windows / Linux:** Alt + Click
+> * **macOS:** Option (⌥) + klick
+> * **Windows / Linux:** Alt + klick
 >
-> *If this does not work in your browser, right-click the link and choose **“Save Link As…”***
+> *Of, als dit niet werkt, rechts-klick de link en kies **“Save Link As…”***
 
+### Start Jupyter
+
+* Zorg ervoor dat je de juiste conda-omgeving hebt geactiveerd:
+
+        conda activate RecSys
+
+* Start Jupyter:
+        
+        jupyter lab
+
+* Open vervolgens de notebook

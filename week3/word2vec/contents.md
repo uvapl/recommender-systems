@@ -6,3 +6,14 @@ Word-embeddings zijn een manier om individuele woorden te representeren als vect
 
 [download notebook](/notebooks/word2vec.ipynb)
 
+### Start Jupyter
+
+* Zorg ervoor dat je de juiste conda-omgeving hebt geactiveerd:
+
+        conda activate RecSys
+
+* Start Jupyter:
+        
+        jupyter lab
+
+* Open vervolgens de notebook
