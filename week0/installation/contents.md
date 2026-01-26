@@ -7,7 +7,7 @@
 
         curl -L -o environment.yml https://github.com/uvapl/recommender-systems/raw/refs/heads/2025/data/m0/environment.yml
 
-  * Of download handmatige: [download](https://github.com/uvapl/recommender-systems/raw/refs/heads/2025/data/m0/environment.yml)
+  * Of download het evnironment-bestand handmatig: [download](https://github.com/uvapl/recommender-systems/raw/refs/heads/2025/data/m0/environment.yml)
 * Installeer de omgeving:
   `conda env create -f environment.yml`
 * Ruim het bestand op:
