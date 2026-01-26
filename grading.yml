@@ -6,6 +6,7 @@ templates:
             late_1_day: boolean
             late_4_day: boolean
             way_late: boolean
+        hide_subgrades: false
         hide_calculated: false
 
     2: &manual_exam
