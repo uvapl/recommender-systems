@@ -1,0 +1,4 @@
+name: matrices
+files:
+    required:
+        - matrices.ipynb

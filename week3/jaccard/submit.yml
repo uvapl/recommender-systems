@@ -1,0 +1,4 @@
+name: jaccard
+files:
+    required:
+        - jaccard.ipynb

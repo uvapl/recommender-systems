@@ -1,0 +1,4 @@
+name: evaluation
+files:
+    required:
+        - evaluation.ipynb

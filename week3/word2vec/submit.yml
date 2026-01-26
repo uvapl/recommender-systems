@@ -1,0 +1,4 @@
+name: word2vec
+files:
+    required:
+        - word2vec.ipynb

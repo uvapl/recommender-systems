@@ -1,0 +1,4 @@
+name: knn
+files:
+    required:
+        - knn.ipynb
