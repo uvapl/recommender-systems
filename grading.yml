@@ -25,7 +25,7 @@ templates:
 
 grades:
     knn:
-        <<: manual
+        <<: *manual
         calculation: "[(points) * 9.0 / 23 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
 
     part_wk1: *participation_check
