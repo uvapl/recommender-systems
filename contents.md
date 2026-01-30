@@ -13,7 +13,7 @@ In dit vak leer je zowel beter begrijpen hoe deze algoritmen werken, als kritisc
 
 ## Contact
 
-Voor organisatorische en persoonlijke vragen kun je mailen naar [pyprog@proglab.nl](mailto:pyprog@proglab.nl).
+Voor organisatorische en persoonlijke vragen kun je mailen naar [recsys@proglab.nl](mailto:recsys@proglab.nl).
 Voor vragen over de opdrachten, zie het kopje **Begeleiding** hieronder.
 
 **Team:**
@@ -151,7 +151,7 @@ De verwachting is dat je ongeveer 21 uur per week aan dit vak besteedt. Houd er 
 | 3    | notebook: jaccard       | vr 20 feb, 23:59 |
 | 4    | notebook: matrices      | wo 25 feb, 23:59 |
 | 4    | notebook: factorization | vr 27 feb, 23:59 |
-| 5    | notebook: diversity     | do 4 mar, 23:59  |
+| 5    | notebook: diversity     | do 4 mar, 23:59      |
 
 ### Te laat inleveren
 
