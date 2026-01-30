@@ -27,9 +27,13 @@ grades:
     knn:
         <<: *manual
         calculation: "[(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, 1_dag_te_laat == -1 && 7 || 10, 4_dagen_te_laat == -1 && 5.5 || 10].min"
+        deadline: 04/02/26 23:59
+    
     evaluation:
         <<: *manual
         calculation: "[(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, 1_dag_te_laat == -1 && 7 || 10, 4_dagen_te_laat == -1 && 5.5 || 10].min"
+        deadline: 06/02/26 23:59
+
 
     part_wk1: *participation_check
 

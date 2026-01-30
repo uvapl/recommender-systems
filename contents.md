@@ -141,17 +141,17 @@ De verwachting is dat je ongeveer 21 uur per week aan dit vak besteedt. Houd er 
 
 **Deadlines:**
 
-| Week | Activiteit              | Deadline |
-| ---- | ----------------------- | -------- |
-| 1    | notebook: knn           | ...      |
-| 1    | notebook: evaluation    | ...      |
-| 2    | notebook: real-data     | ...      |
-| 2    | notebook: tf-idf        | ...      |
-| 3    | notebook: word2vec      | ...      |
-| 3    | notebook: jaccard       | ...      |
-| 4    | notebook: matrices      | ...      |
-| 4    | notebook: factorization | ...      |
-| 5    | notebook: diversity     | ...      |
+| Week | Activiteit              | Deadline         |
+| ---- | ----------------------- | ---------------- |
+| 1    | notebook: knn           | wo 4 feb, 23:59  |
+| 1    | notebook: evaluation    | vr 6 feb, 23:59  |
+| 2    | notebook: real-data     | wo 11 feb, 23:59 |
+| 2    | notebook: tf-idf        | vr 13 feb, 23:59 |
+| 3    | notebook: word2vec      | wo 18 feb, 23:59 |
+| 3    | notebook: jaccard       | vr 20 feb, 23:59 |
+| 4    | notebook: matrices      | wo 25 feb, 23:59 |
+| 4    | notebook: factorization | vr 27 feb, 23:59 |
+| 5    | notebook: diversity     | do 4 mar, 23:59  |
 
 ### Te laat inleveren
 
