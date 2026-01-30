@@ -21,7 +21,7 @@ def color_nan(x: float) -> str:
 
 
 def nice(df: pd.DataFrame, nan: str = 'nan'):
-    return df.style.format(lambda x: nan if np.isnan(x) else f'{x:,.2f}').applymap(color_nan)
+    return df.fillna(-9.99).style.format(precision=2).background_gradient(vmin=0,vmax=1).map(lambda v: "background-color: white; color: white" if v==-9.99 else "")
 
 
 def random_df(index: pd.Index, columns: pd.Index) -> pd.DataFrame:
