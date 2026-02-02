@@ -2,7 +2,7 @@
 
 Leer hier hoe je het *k-nearest neighbor* algoritme kan gebruiken ovoor *collaborative filtering*.
 
-[download notebook](/notebooks/knn.ipynb)
+[download notebook](https://github.com/uvapl/recommender-systems/raw/refs/heads/main/notebooks/knn.ipynb)
 
 > Om het bestand te downloaden (en niet in een nieuwe tab te openen), gebruik:
 >

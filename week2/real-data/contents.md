@@ -2,7 +2,7 @@
 
 Test kNN op een grotere dataset.
 
-[Download notebook](/notebooks/real-data.ipynb)
+[Download notebook](https://github.com/uvapl/recommender-systems/raw/refs/heads/main/notebooks/real-data.ipynb)
 
 ### Start Jupyter (als je dat nog niet hebt gedaan)
 
