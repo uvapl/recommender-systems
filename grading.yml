@@ -3,9 +3,10 @@ templates:
         type: float
         subgrades:
             punten: integer
-            1_dag_te_laat: boolean
-            4_dagen_te_laat: boolean
+            dag_te_laat: boolean
+            vier_dagen_te_laat: boolean
             veel_te_laat: boolean
+            afgetekend: boolean
         hide_subgrades: false
         hide_calculated: false
 
@@ -26,12 +27,12 @@ templates:
 grades:
     knn:
         <<: *manual
-        calculation: "[(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, 1_dag_te_laat == -1 && 7 || 10, 4_dagen_te_laat == -1 && 5.5 || 10].min"
+        calculation: "[(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min"
         deadline: 04/02/26 23:59
     
     evaluation:
         <<: *manual
-        calculation: "[(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, 1_dag_te_laat == -1 && 7 || 10, 4_dagen_te_laat == -1 && 5.5 || 10].min"
+        calculation: "[(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min"
         deadline: 06/02/26 23:59
 
 
