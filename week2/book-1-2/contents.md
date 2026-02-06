@@ -1,13 +1,14 @@
-# Aggarwal fragmenten hoofdstuk 1 en 2 leesijzer en vragen.
+# Aggarwal – hoofdstuk 1 en 2: leeswijzer en vragen
 
-Lees (delen van) hoofdstuk 1 en 2 van *Recommender Systems: The Textbook* van *Charu C. Aggarwal*. Beantwoord de onderstaande vragen **aan de hand van dit hoofdstuk**.
+In deze week lees je (delen van) hoofdstuk 1 en 2 van *Recommender Systems: The Textbook* van *Charu C. Aggarwal*. Gebruik deze hoofdstukken om de vragen onderaan te beantwoorden.
 
-**Lees dit in de loop van de week terwijl je aan de andere opdrachten werkt.**
+**Je hoeft dit niet in één keer te doen**: lees de tekst verspreid over de komende twee weken, naast de andere opdrachten.
 
 ### Leeswijzer
-Dit is de leeswijzer voor *Hoofdstuk 1 en 2* van [Recommender Systems: The Textbook](https://link.springer.com/book/10.1007/978-3-319-29659-3) van *Charu C. Aggarwal*. Hiervan is niet alles volledig te begrijpen zonder een machine learning achtergrond. Om je daar doorheen te loodsen volgt hieronder een leeswijzer.
 
-Hoofdstuk 1
+Hieronder vind je een leeswijzer voor *hoofdstuk 1 en 2* van [*Recommender Systems: The Textbook*](https://link.springer.com/book/10.1007/978-3-319-29659-3) van *Charu C. Aggarwal*. Sommige onderdelen zijn best technisch en lastig zonder een machine-learningachtergrond. Om je daarbij te helpen staat hieronder precies aangegeven wat je wel en niet hoeft te lezen.
+
+**Hoofdstuk 1**
 
 * 1.1 (p. 1-2): lezen
 * 1.2 (p. 3-8): lezen
@@ -31,7 +32,7 @@ Hoofdstuk 1
 * 1.6 (p. 26): lezen
 * 1.7: overslaan
 
-Hoofdstuk 2
+**Hoofdstuk 2**
 
 * 2.1 (p. 29-31): lezen
 * 2.2 (p. 31-33): lezen
@@ -44,13 +45,15 @@ Hoofdstuk 2
     * 2.3.6: overslaan
 * 2.4 - 2.10: overslaan
 
+---
 
 ### Vragen
 
-Een aantal voorbeeldvragen waar je voor het tentamen antwoord op zou moeten kunnen geven.
+Hieronder staan voorbeeldvragen. Deze zou je voor het tentamen moeten kunnen beantwoorden:
 
-* What is het primaire doel van recommender systems volgens het boek?
-* What zijn hybride recommender systems, en wat is het voordeel van deze systemen?
-* Wat is het belang van het evalueren van recommender systems?
-* Welke methode is, volgens het boek, over het algemeen accurater, _user-based_ of _item-based collaborative filtering_, en waarom?
-* Wat is een sterke kant van _neighborhood-based collaborative filtering_?
+* Wat is volgens het boek het primaire doel van recommender systems?
+* Wat zijn hybride recommender systems, en waarom zijn ze vaak een goed idee?
+* Waarom is het belangrijk om recommender systems te evalueren?
+* Welke methode is volgens het boek meestal accurater: *user-based* of *item-based collaborative filtering*? En waarom?
+* Wat is een sterke kant van *neighborhood-based collaborative filtering*?
+
