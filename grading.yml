@@ -1,5 +1,15 @@
 templates:
-    1: &manual
+    0: &manual_discuss
+        type: float
+        subgrades:
+            punten: integer
+            dag_te_laat: boolean
+            vier_dagen_te_laat: boolean
+            veel_te_laat: boolean
+        hide_subgrades: false
+        hide_calculated: false
+
+    1: &manual_discuss
         type: float
         subgrades:
             punten: integer
@@ -26,8 +36,8 @@ templates:
 
 grades:
     knn:
-        <<: *manual
-        calculation: "[(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min"
+        <<: *manual-discuss
+        calculation: "afgetekend & [(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min | -1"
         deadline: 04/02/26 23:59
     
     evaluation:
