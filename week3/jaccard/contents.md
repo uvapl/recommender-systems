@@ -1,6 +1,8 @@
 # Jaccard
 
-download
+
+[download notebook](https://github.com/uvapl/recommender-systems/raw/refs/heads/2025/notebooks/jaccard.ipynb)
+
 
 
 ### Start Jupyter

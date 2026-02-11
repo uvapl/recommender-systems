@@ -4,7 +4,9 @@ Gebruik word-embeddings (word2vec) voor een content-based *News Recommender Syst
 
 Word-embeddings zijn een manier om individuele woorden te representeren als vectoren. Hiermee kunnen we ook woorden onderling semantisch met elkaar vergelijken.
 
-[download notebook](/notebooks/word2vec.ipynb)
+[download notebook](https://github.com/uvapl/recommender-systems/raw/refs/heads/2025/notebooks/word2vec.ipynb)
+
+
 
 ### Start Jupyter
 
