@@ -99,7 +99,14 @@ programmeeropdrachten:
     submits:
         knn: 1
         evaluation: 1
-
+        real_data: 1
+        tf-idf: 1
+        word2vec: 1
+        jaccard: 1
+        matrices: 1
+        factorisatie: 1
+        diversity: 1
+        
 participatie:
     show_progress: true
     submits:
