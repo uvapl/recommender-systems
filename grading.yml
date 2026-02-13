@@ -45,6 +45,40 @@ grades:
         calculation: "[(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min"
         deadline: 06/02/26 23:59
 
+    real_data:
+        <<: *manual
+        calculation: "[(punten) * 9.0 / 18 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min"
+        deadline: 11/02/26 23:59
+
+    tf-idf:
+        <<: *manual_discuss
+        calculation: "[(punten) * 9.0 / 24 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min"
+        deadline: 13/02/26 23:59
+
+    word2vec:
+        <<: *manual
+        calculation: "[(punten) * 9.0 / 11 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min"
+        deadline: 18/02/26 23:59
+
+    jaccard:
+        <<: *manual
+        calculation: "[(punten) * 9.0 / 6 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min"
+        deadline: 20/02/26 23:59
+
+    matrices:
+        <<: *manual
+        calculation: "[(punten) * 9.0 / 10 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min"
+        deadline: 25/02/26 23:59
+
+    factorisatie:
+        <<: *manual
+        calculation: "[(punten) * 9.0 / 11 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min"
+        deadline: 27/02/26 23:59
+
+    diversity:
+        <<: *manual
+        calculation: "[(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min"
+        deadline: 4/03/26 23:59
 
     part_wk1: *participation_check
 
