@@ -1,7 +1,6 @@
-# Matrices
+# Factorisatie
 
-download
-
+[download notebook](https://github.com/uvapl/recommender-systems/raw/refs/heads/2025/notebooks/factorization.ipynb)
 
 ### Start Jupyter
 
