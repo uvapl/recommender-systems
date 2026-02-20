@@ -68,12 +68,12 @@ grades:
     matrices:
         <<: *manual
         calculation: "[(punten) * 9.0 / 10 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min"
-        deadline: 25/02/26 23:59
+        deadline: 24/02/26 23:59
 
     factorisatie:
         <<: *manual
         calculation: "[(punten) * 9.0 / 11 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min"
-        deadline: 27/02/26 23:59
+        deadline: 26/02/26 23:59
 
     diversity:
         <<: *manual
