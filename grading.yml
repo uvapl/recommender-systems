@@ -90,7 +90,15 @@ grades:
         hide_subgrades: false
         hide_calculated: true
 
-
+    debat:
+        type: float
+        subgrades:
+            aanwezig: boolean
+            serieus_gedaan: boolean
+            uitmuntend: boolean
+        calculation: "uitmuntend == -1 && 10.0 || (serieus_gedaan == -1 && 7.0 || (aanwezig == -1 && 1.0 || 0))"
+        hide_subgrades: false
+        hide_calculated: true
 
     eindproject:
         type: float
@@ -123,6 +131,7 @@ participatie:
     show_progress: true
     submits:
         presentation_bias: 1
+        debat: 3
 
 eindproject:
     show_progress: true
