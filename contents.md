@@ -83,7 +83,10 @@ Je programmeert verschillende algoritmes en data analyses uit. Je wordt hier all
 
 Gedurende de werkcolleges in de eerste 5 weken zullen er verschillende activteiten zijn waarop je beoordeeld wordt.
 
+Dit bestaat uit korte presentaties of een debat. Voor de presentaties kan je 1 krijgen, voor het debat, maximaal 3. Het cijfer voor peraticpatie is $$\frac{\textrm{gehaalde punten}}{\textrm{max punten}} * 9 + 1$$.
+
 ### Eindproject
+
 Je werkt aan dit project in **groepjes van vier**.
 
 Dit is *het* moment om te laten zien dat je een **informatiekundige** bent. In dit project draait het om de **integratie van technische kennis met inzicht in de maatschappelijke context** waarin informatiesystemen functioneren.
