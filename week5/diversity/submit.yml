@@ -1,4 +1,4 @@
 name: diversity
 files:
     required:
-        - diversity.ipynb
+        - news-diversity.ipynb

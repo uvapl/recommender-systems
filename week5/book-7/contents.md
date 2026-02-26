@@ -1,0 +1,61 @@
+# Aggarwal hoofdstuk 7 leesijzer en vragen.
+
+Lees hoofdstuk 7 van *Recommender Systems: The Textbook* van *Charu C. Aggarwal*. Beantwoord de onderstaande vragen **aan de hand van dit hoofdstuk**.
+
+### Leeswijzer
+
+In het hoofdstuk wordt de term **overfitting** gebruikt. Hiermee wordt bedoeld dat het algoritme (bijvoorbeeld collaborative filtering) goed werkt voor de training-data, maar niet voor de test-set. Het model is dus te specifiek voor de training-data geworden.
+
+* 7.1: Alles lezen.
+* 7.2: Alles lezen.
+* **7.3: Alles lezen.** Dit is het belagnrijkste deel. Hier woorden verschillende evaluatiematen besproken, die relevant kunnen zijn voor het eindproject.
+    * 7.3.1: De wiskunde in dit deel wordt ook in de opdracht en bijbehorende video behandeld.
+* 7.4: Grotendeels lezen:
+    * Let op:
+        * De schrijver gebruikt hier de termen *entries* en *rows*, zonder duidelijk aan te geven wat hiermee wordt bedoeld. Met de term *entry* wordt een indivuduele *rating* bedoeld, met *row* een hele rij met *alle* ratings van een specifieke film of gebruiker.
+        * In de opdrachten maken we geen gebruik van een *validatie*-set. Alleen een *training*- en een *test*-set.
+    * 7.4.2: Kan je overslaan.
+    * 7.4.3: Kan je overslaan.
+* 7.5: Deels lezen:
+    * 7.5.1: Lezen.
+    * 7.5.2: Kan je overslaan.
+    * 7.5.3: Kan je overslaan.
+    * 7.5.4: Lezen.
+    * 7.5.5: Lezen.
+* 7.6: Alles lezen.
+* 7.7: Alles lezen.
+* 7.8: Kan je overslaan.
+
+
+### Vragen
+
+Probeer te kijken of je een antwoord kan bedenken op deze vragen:
+
+#### Vraag 1
+
+Wat zijn de drie primaire soorten evaluatieparadigma's? Leg elk uit in twee zinnen en geef een voordeel en een nadeel van elk.
+
+#### Vraag 2
+
+Waarom denk je dat we ons alleen op offline evaluatie concentreren voor deze cursus? Beargumenteer in 3 of 4 zinnen.
+
+#### Vraag 3
+
+Hoe heeft een lage *coverage* gevolgen voor nichecontent?
+
+#### Vraag 4
+
+Kan het verhogen van *novelty* filter bubbles verminderen?
+
+#### Vraag 5
+
+Hoe maken we onderscheid tussen *novelty* en willekeur?
+
+#### Vraag 6
+
+Hoe kan het vergroten van *diversity* ten koste gaan van *accuracy*?
+
+#### Vraag 7
+
+Moet *diversity* worden gemeten op individueel niveau of populatieniveau?
+
