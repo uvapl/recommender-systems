@@ -72,7 +72,7 @@ grades:
 
     factorisatie:
         <<: *manual_discuss
-        calculation: "afgetekend == -1 && [(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min || 0"
+        calculation: "afgetekend == -1 && [(punten) * 9.0 / 37 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min || 0"
         deadline: 27/02/26 23:59
 
     diversity:
