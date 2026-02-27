@@ -6,7 +6,7 @@ Volgende week begint het eindproject.Daar moet je deze week al een aantal belang
 - Lees de opzet voor het project hieronder.
 - Bedenk een onderwerp.
 
-**Maandag 9 maart tussen 9:00 en 11:00** moet je (met je hele groep) het idee aan ons (Dina, Simon en Rein) voorleggen! Dan krijg je van ons een og/no-go. 
+**Maandag 9 maart tussen 9:00 en 11:00** moet je (met je hele groep) het idee aan ons (Dina, Simon en Rein) voorleggen! Dan krijg je van ons een go/no-go. 
 
 ## Opzet
 
