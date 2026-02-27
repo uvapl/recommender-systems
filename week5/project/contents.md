@@ -1,6 +1,7 @@
 # Final Project: Recommender Systems in Society
 
 Volgende week begint het eindproject.Daar moet je deze week al twe belangrijke dingen voor doen.
+
 - Vorm een groepje van vier studenten. (Ja het moeten er precies vier zijn ;) )
 - Lees de opzet voor het project hieronder.
 - Bedenk een onderwerp.
@@ -56,6 +57,7 @@ Detecting political affiliation (relevant to polarization) is not something that
 
 **Goal**
 Develop a metric that uses linguistic cues in data that suggests partisanship and using those to see if the Microsoft Recommender system gives politically biased recommendations.
+
 Discuss your findings. Are the recommendations politically biases. Is this good or bad for the user? And for Microsoft? And for the news platform? And for society? Why?
 
 ### Example 2: Fairness (gender) in MovieLens
