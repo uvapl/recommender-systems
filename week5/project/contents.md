@@ -1,8 +1,8 @@
 # Final Project: Recommender Systems in Society
 
-Volgende week begint het eindproject.Daar moet je deze week al twe belangrijke dingen voor doen.
+Volgende week begint het eindproject.Daar moet je deze week al een aantal belangrijke dingen voor doen.
 
-- Vorm een groepje van vier studenten. (Ja het moeten er precies vier zijn ;) )
+- Vorm een groepje van vier studenten. (Ja het moet een groepje van precies vier zijn ;) )
 - Lees de opzet voor het project hieronder.
 - Bedenk een onderwerp.
 
