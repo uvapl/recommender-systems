@@ -2,7 +2,7 @@
 
 Volgende week begint het eindproject.Daar moet je deze week al een aantal belangrijke dingen voor doen.
 
-- Vorm een groepje van vier studenten. (Ja het moet een groepje van precies vier zijn ;) )
+- Vorm een groepje van vier studenten. (Ja het moet precies vier zijn 😉)
 - Lees de opzet voor het project hieronder.
 - Bedenk een onderwerp.
 
