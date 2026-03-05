@@ -14,7 +14,8 @@ Your task is not to argue your personal opinion, but rather to justify your assi
 
 The purpose of the debates is to simulate a real-world situation in which different stakeholders (news rooms, companies, regulators, users, ...) advocate for different system designs because of their different interests. There is no objectively “right” position – rather, your job is to convince the jury that the position you are arguing for is the more justifiable one.
 
-Debate Format
+Debate Format:
+
 *	Opening statement (2 min)
     *	Each team presents its proposed system design and explains why it is the better solution for the given scenario. Do not yet respond to the opposing team.
 *	Regroup (3 min)
