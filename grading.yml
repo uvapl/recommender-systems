@@ -104,8 +104,8 @@ grades:
         subgrades:
             aanwezig: boolean
             serieus_gedaan: boolean
-            uitmuntend: boolean
-        calculation: "uitmuntend == -1 && 10.0 || (serieus_gedaan == -1 && 7.0 || (aanwezig == -1 && 1.0 || 0))"
+            goed_gedaan: boolean
+        calculation: "goed_gedaan == -1 && 10.0 || (serieus_gedaan == -1 && 7.0 || (aanwezig == -1 && 1.0 || 0))"
         hide_subgrades: false
         hide_calculated: true
 
@@ -114,8 +114,7 @@ grades:
         subgrades:
             aanwezig: boolean
             serieus_gedaan: boolean
-            uitmuntend: boolean
-        calculation: "uitmuntend == -1 && 10.0 || (serieus_gedaan == -1 && 7.0 || (aanwezig == -1 && 1.0 || 0))"
+        calculation: "serieus_gedaan == -1 && 10 || 1"
         hide_subgrades: false
         hide_calculated: true
 
@@ -152,7 +151,7 @@ participatie:
         presentation_bias: 1
         presentation_nrs: 1
         debat: 3
-        final_pres_participation: 3
+        final_pres_participation: 2
 
 eindproject:
     show_progress: true
