@@ -76,7 +76,7 @@ grades:
         deadline: 27/02/26 23:59
 
     diversity:
-        <<: *manual
+        <<: *manual_discuss
         calculation: "[(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min"
         deadline: 4/03/26 23:59
 
