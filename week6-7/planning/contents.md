@@ -113,7 +113,7 @@ You can use one of the projects proposed by us, but if you do so, your final pro
 4. Excellent
     * technically solid and ambitious work (e.g., thoughtful comparisons, clear baselines, careful evaluation, or clever adaptation of methods)
 
-# Theoretical justification & understanding of impact (30%)
+### Theoretical justification & understanding of impact (30%)
 
 0. No effort
 1. Limited
@@ -197,3 +197,9 @@ You can use one of the projects proposed by us, but if you do so, your final pro
 
 
 
+| Level        | content                                                                                                                                       | slides and planning                                                                                                                                                                                                                                       | interaction                                                          |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| 0. No effort |                                                                                                                                               |                                                                                                                                                                                                                                                           |                                                                      |
+| 2. Basic     | • research focus/question unclear<br>• method and desgin unclear<br>• theoretical relevance/impact unclear<br>• results not clear             | • (much) too long or pace too high<br>• too much detail in slides<br>• no logical order<br>• no blance between different aspects of the presentation<br>• visuals (graphs, tables, and illustartions) are unclear or not supporting the content           | • not giving answer to the questions                                 |
+| 3. Good      | • research focus/question<br>• clear description of methods<br>• clear discussion of theoretical relevance/impact<br>• results somewhat clear | • good timing, and structure<br>• useful visuals, but might still need more explanation<br>• reasonable balance between different aspects of the presentation                                                                                             | • giving relevant answers to most questions, but room for improvment |
+| 4. Excellent | • research focus/question<br>• clear description of methods<br>• clear discussion of theoretical relevance/impact<br>• results somewhat clear | • highly poolished presentation<br>• prefect timing, and structure<br>• each visual is very clear and supports the overal story<br>• great balance between different aspects of the presentation<br>• well focussed: no disctractions from the main point | • giving good answers to all questions                               |
