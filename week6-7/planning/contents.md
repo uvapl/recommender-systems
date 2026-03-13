@@ -134,67 +134,16 @@ You can use one of the projects proposed by us, but if you do so, your final pro
 
 ### Integration of 1 and 2 (20%)
 
-0. No effort
-1. Limited
-    * technical and conceptual parts are mostly separate 
-2. Basic
-    * superfical links between methods, results, and theoretical foundations
-    * conclusions strongly overinterpret what was actually done
-3. Good
-    * research question/focus, concepts, methods, and results clearly align
-    * findings and design choices are clearly grounded in theory
-    * some reflection on limitations of technical approach
-4. Excellent
-    * very tight integration: 
-        * theory motivates metrics/algorithms, 
-        * technical findings support or challenge the theory
-        * one coherent narrative
-    * full understanding of limitations and design trade offs
+| Level        | Criteria                                                                                                                                                                                                                         |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. No effort |                                                                                                                                                                                                                                  |
+| 1. Limited   | • technical and conceptual parts are mostly separate                                                                                                                                                                             |
+| 2. Basic     | • superfical links between methods, results, and theoretical foundations<br>• conclusions strongly overinterpret what was actually done                                                                                          |
+| 3. Good      | • research question/focus, concepts, methods, and results clearly align<br>• findings and design choices are clearly grounded in theory<br>• some reflection on limitations of technical approach                                |
+| 4. Excellent | • very tight integration:<br>    • theory motivates metrics/algorithms,<br>    • technical findings support or challenge the theory<br>    • one coherent narrative<br>• full understanding of limitations and design trade offs |
+
 
 ### Presentation (20%)
-
-0. No effort
-2. Basic
-    * content
-        * research focus/question unclear
-        * method and design unclear
-        * theoretical relevance/impact unclear
-        * results not clear
-    * slides and planning
-        * (much) too long or pace too high
-        * too much detail in slides
-        * no logical order
-        * no balance between different aspects of the presentation
-        * visuals (graphs, tables, and illustartions) are unclear or not supporting the content
-    * interaction
-        * not giving answer to the questions  
-3. Good
-    * content
-        * research focus/question 
-        * clear description of methods
-        * clear discussion of theoretical relevance/impact
-        * results somewhat clear
-    * slides and planning
-        * good timing, and structure
-        * useful visuals, but might still need more explanation
-        * reasonable balance between different aspects of the presentation
-    * interaction
-        * giving relevant answers to most questions, but room for improvment
-4. Excellent
-    * content
-        * research focus/question 
-        * clear description of methods
-        * clear discussion of theoretical relevance/impact
-        * results somewhat clear
-    * slides and planning
-        * highly poolished presentation
-        * prefect timing, and structure
-        * each visual is very clear and supports the overal story
-        * great balance between different aspects of the presentation
-        * well focussed: no disctractions from the main point
-    * interaction
-        * giving good answers to all questions
-
 
 
 | Level        | Criteria                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
