@@ -96,41 +96,23 @@ You can use one of the projects proposed by us, but if you do so, your final pro
 
 ### Technical effort (30%)
 
-0. No effort
-1. Limited
-    * very small or incomplete technical contribution
-    * major flaws in implementation or analysis
-    * results are not interpretable
-2. Basic
-    * a working but simple implementation or analysis
-    * mostly reproducing course material or examples
-    * limited experimentation or evaluation
-    * low code quality (code requires significant effort to run / no documentation)
-    * no clear frame for analysis (e.g., lack of baselines, usable metrics, etc.)
-3. Good
-    * clear and non trivial technical work (e.g., implementing/combining methods, meaningful experiments, clear baselines or references)
-    * code/analysis is mostly correct, reproducible, and well explained
-4. Excellent
-    * technically solid and ambitious work (e.g., thoughtful comparisons, clear baselines, careful evaluation, or clever adaptation of methods)
+| Level        | Criteria                                                                                                                                                                                                                                                                                                             |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. No effort |                                                                                                                                                                                                                                                                                                                      |
+| 1. Limited   | • very small or incomplete technical contribution<br>• major flaws in implementation or analysis<br>• results are not interpretable                                                                                                                                                                                  |
+| 2. Basic     | • a working but simple implementation or analysis<br>• mostly reproducing course material or examples<br>• limited experimentation or evaluation<br>• low code quality (code requires significant effort to run / no documentation)<br>• no clear frame for analysis (e.g., lack of baselines, usable metrics, etc.) |
+| 3. Good      | • clear and non trivial technical work (e.g., implementing/combining methods, meaningful experiments, clear baselines or references)<br>• code/analysis is mostly correct, reproducible, and well explained                                                                                                          |
+| 4. Excellent | • technically solid and ambitious work (e.g., thoughtful comparisons, clear baselines, careful evaluation, or clever adaptation of methods)                                                                                                                                                                          |
 
 ### Theoretical justification & understanding of impact (30%)
 
-0. No effort
-1. Limited
-    * no, incorrect or very incomplete justification for design choices
-    * no explicit connection to course materials 
-2. Basic
-    * justification present but abstract and rather superficial
-    * justifications mentioned in all design choices, no missing justifications throughout design
-    * more than one reference to course materials used in reference. 
-3. Good
-    * clear justification for all individual design choices
-    * choices are mostly correct and make sense in the context of the design choice
-    * course materials mentioned AND interpreted in the context of the specific RS
-4. Excellent
-    * justification for all individual design choices particularly convincing
-    * course material used for all justifications
-    * critical thinking particularly well demonstrated (by, for example, discussing both immediate and long-term considerations or broader implications)
+| Level        | Criteria                                                                                                                                                                                                                                                                           |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. No effort |                                                                                                                                                                                                                                                                                    |
+| 1. Limited   | • no, incorrect or very incomplete justification for design choices<br>• no explicit connection to course materials                                                                                                                                                                |
+| 2. Basic     | • justification present but abstract and rather superficial<br>• justifications mentioned in all design choices, no missing justifications throughout design<br>• more than one reference to course materials used in reference.                                                   |
+| 3. Good      | • clear justification for all individual design choices<br>• choices are mostly correct and make sense in the context of the design choice<br>• course materials mentioned AND interpreted in the context of the specific RS                                                       |
+| 4. Excellent | • justification for all individual design choices particularly convincing<br>• course material used for all justifications<br>• critical thinking particularly well demonstrated (by, for example, discussing both immediate and long-term considerations or broader implications) |
 
 ### Integration of 1 and 2 (20%)
 
