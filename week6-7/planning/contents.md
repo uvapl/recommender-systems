@@ -94,7 +94,7 @@ You can use one of the projects proposed by us, but if you do so, your final pro
 
 ### Rubrik
 
-# Technical effort (30%)
+### Technical effort (30%)
 
 0. No effort
 1. Limited
@@ -153,47 +153,47 @@ You can use one of the projects proposed by us, but if you do so, your final pro
 
 ### Presentation (20%)
 
-    0. No effort
-    2. Basic
-        * content
-            * research focus/question unclear
-            * method and desgin unclear
-            * theoretical relevance/impact unclear
-            * results not clear
-        * slides and planning
-            * (much) too long or pace too high
-            * too much detail in slides
-            * no logical order
-            * no blance between different aspects of the presentation
-            * visuals (graphs, tables, and illustartions) are unclear or not supporting the content
-        * interaction
-            * not giving answer to the questions  
-    3. Good
-        * content
-            * research focus/question 
-            * clear description of methods
-            * clear discussion of theoretical relevance/impact
-            * results somewhat clear
-        * slides and planning
-            * good timing, and structure
-            * useful visuals, but might still need more explanation
-            * reasonable balance between different aspects of the presentation
-        * interaction
-            * giving relevant answers to most questions, but room for improvment
-    3. Excellent
-        * content
-            * research focus/question 
-            * clear description of methods
-            * clear discussion of theoretical relevance/impact
-            * results somewhat clear
-        * slides and planning
-            * highly poolished presentation
-            * prefect timing, and structure
-            * each visual is very clear and supports the overal story
-            * great balance between different aspects of the presentation
-            * well focussed: no disctractions from the main point
-        * interaction
-            * giving good answers to all questions
+0. No effort
+2. Basic
+    * content
+        * research focus/question unclear
+        * method and desgin unclear
+        * theoretical relevance/impact unclear
+        * results not clear
+    * slides and planning
+        * (much) too long or pace too high
+        * too much detail in slides
+        * no logical order
+        * no blance between different aspects of the presentation
+        * visuals (graphs, tables, and illustartions) are unclear or not supporting the content
+    * interaction
+        * not giving answer to the questions  
+3. Good
+    * content
+        * research focus/question 
+        * clear description of methods
+        * clear discussion of theoretical relevance/impact
+        * results somewhat clear
+    * slides and planning
+        * good timing, and structure
+        * useful visuals, but might still need more explanation
+        * reasonable balance between different aspects of the presentation
+    * interaction
+        * giving relevant answers to most questions, but room for improvment
+4. Excellent
+    * content
+        * research focus/question 
+        * clear description of methods
+        * clear discussion of theoretical relevance/impact
+        * results somewhat clear
+    * slides and planning
+        * highly poolished presentation
+        * prefect timing, and structure
+        * each visual is very clear and supports the overal story
+        * great balance between different aspects of the presentation
+        * well focussed: no disctractions from the main point
+    * interaction
+        * giving good answers to all questions
 
 
 
