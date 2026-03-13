@@ -94,4 +94,97 @@ You can use one of the projects proposed by us, but if you do so, your final pro
 
 ### Rubrik
 
-Will be published on Monday
+* Technical effort (30%)
+    0. No effort
+    1. Limited
+        * very small or incomplete technical contribution
+        * major flaws in implementation or analysis
+        * results are not interpretable
+    2. Basic
+        * a working but simple implementation or analysis
+        * mostly reproducing course material or examples
+        * limited experimentation or evaluation
+        * low code quality (code requires significant effort to run / no documentation)
+        * no clear frame for analysis (e.g., lack of baselines, usable metrics, etc.)
+    3. Good
+        * clear and non trivial technical work (e.g., implementing/combining methods, meaningful experiments, clear baselines or references)
+        * code/analysis is mostly correct, reproducible, and well explained
+    4. Excellent
+        * technically solid and ambitious work (e.g., thoughtful comparisons, clear baselines, careful evaluation, or clever adaptation of methods)
+* Theoretical justification & understanding of impact (30%)
+    0. No effort
+    1. Limited
+        * no, incorrect or very incomplete justification for design choices
+        * no explicit connection to course materials 
+    2. Basic
+        * justification present but abstract and rather superficial
+        * justifications mentioned in all design choices, no missing justifications throughout design
+        * more than one reference to course materials used in reference. 
+    3. Good
+        * clear justification for all individual design choices
+        * choices are mostly correct and make sense in the context of the design choice
+        * course materials mentioned AND interpreted in the context of the specific RS
+    4. Excellent
+        * justification for all individual design choices particularly convincing
+        * course material used for all justifications
+        * critical thinking particularly well demonstrated (by, for example, discussing both immediate and long-term considerations or broader implications)
+* Integration of 1 and 2
+    0. No effort
+    1. Limited
+        * technical and conceptual parts are mostly separate 
+    2. Basic
+        * superfical links between methods, results, and theoretical foundations
+        * conclusions strongly over interpret what was actually done
+    3. Good
+        * research question/focus, concepts, methods, and results clearly align
+        * findings and design choices are clearly grounded in theory
+        * some reflection on limitations of technical approach
+    4. Excellent
+        * very tight integration: 
+            * theory motivates metrics/algorithms, 
+            * technical findings asupport or challenge the theory
+            * one coherent narrative
+        * full understanding of limitations and design trade offs
+* Presentation (20%)
+    0. No effort
+    2. Basic
+        * content
+            * research focus/question unclear
+            * method and desgin unclear
+            * theoretical relevance/impact unclear
+            * results not clear
+        * slides and planning
+            * (much) too long or pace too high
+            * too much detail in slides
+            * no logical order
+            * no blance between different aspects of the presentation
+            * visuals (graphs, tables, and illustartions) are unclear or not supporting the content
+        * interaction
+            * not giving answer to the questions  
+    3. Good
+        * content
+            * research focus/question 
+            * clear description of methods
+            * clear discussion of theoretical relevance/impact
+            * results somewhat clear
+        * slides and planning
+            * good timing, and structure
+            * useful visuals, but might still need more explanation
+            * reasonable balance between different aspects of the presentation
+        * interaction
+            * giving relevant answers to most questions, but room for improvment
+    3. Excellent
+        * content
+            * research focus/question 
+            * clear description of methods
+            * clear discussion of theoretical relevance/impact
+            * results somewhat clear
+        * slides and planning
+            * highly poolished presentation
+            * prefect timing, and structure
+            * each visual is very clear and supports the overal story
+            * great balance between different aspects of the presentation
+            * well focussed: no disctractions from the main point
+        * interaction
+            * giving good answers to all questions
+
