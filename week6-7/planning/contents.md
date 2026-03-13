@@ -94,7 +94,7 @@ You can use one of the projects proposed by us, but if you do so, your final pro
 
 ### Rubrik
 
-### Technical effort (30%)
+#### Technical effort (30%)
 
 | Level        | Criteria                                                                                                                                                                                                                                                                                                             |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -104,7 +104,7 @@ You can use one of the projects proposed by us, but if you do so, your final pro
 | 3. Good      | • clear and non trivial technical work (e.g., implementing/combining methods, meaningful experiments, clear baselines or references)<br>• code/analysis is mostly correct, reproducible, and well explained                                                                                                          |
 | 4. Excellent | • technically solid and ambitious work (e.g., thoughtful comparisons, clear baselines, careful evaluation, or clever adaptation of methods)                                                                                                                                                                          |
 
-### Theoretical justification & understanding of impact (30%)
+#### Theoretical justification & understanding of impact (30%)
 
 | Level        | Criteria                                                                                                                                                                                                                                                                           |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -114,7 +114,7 @@ You can use one of the projects proposed by us, but if you do so, your final pro
 | 3. Good      | • clear justification for all individual design choices<br>• choices are mostly correct and make sense in the context of the design choice<br>• course materials mentioned AND interpreted in the context of the specific RS                                                       |
 | 4. Excellent | • justification for all individual design choices particularly convincing<br>• course material used for all justifications<br>• critical thinking particularly well demonstrated (by, for example, discussing both immediate and long-term considerations or broader implications) |
 
-### Integration of 1 and 2 (20%)
+#### Integration of 1 and 2 (20%)
 
 | Level        | Criteria                                                                                                                                                                                                                         |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -125,7 +125,7 @@ You can use one of the projects proposed by us, but if you do so, your final pro
 | 4. Excellent | • very tight integration:<br>    • theory motivates metrics/algorithms,<br>    • technical findings support or challenge the theory<br>    • one coherent narrative<br>• full understanding of limitations and design trade offs |
 
 
-### Presentation (20%)
+#### Presentation (20%)
 
 
 | Level        | Criteria                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
