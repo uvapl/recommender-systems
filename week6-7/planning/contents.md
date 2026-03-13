@@ -147,7 +147,7 @@ You can use one of the projects proposed by us, but if you do so, your final pro
 4. Excellent
     * very tight integration: 
         * theory motivates metrics/algorithms, 
-        * technical findings asupport or challenge the theory
+        * technical findings support or challenge the theory
         * one coherent narrative
     * full understanding of limitations and design trade offs
 
@@ -157,14 +157,14 @@ You can use one of the projects proposed by us, but if you do so, your final pro
 2. Basic
     * content
         * research focus/question unclear
-        * method and desgin unclear
+        * method and design unclear
         * theoretical relevance/impact unclear
         * results not clear
     * slides and planning
         * (much) too long or pace too high
         * too much detail in slides
         * no logical order
-        * no blance between different aspects of the presentation
+        * no balance between different aspects of the presentation
         * visuals (graphs, tables, and illustartions) are unclear or not supporting the content
     * interaction
         * not giving answer to the questions  
@@ -195,11 +195,3 @@ You can use one of the projects proposed by us, but if you do so, your final pro
     * interaction
         * giving good answers to all questions
 
-
-
-| Level        | content                                                                                                                                       | slides and planning                                                                                                                                                                                                                                       | interaction                                                          |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| 0. No effort |                                                                                                                                               |                                                                                                                                                                                                                                                           |                                                                      |
-| 2. Basic     | • research focus/question unclear<br>• method and desgin unclear<br>• theoretical relevance/impact unclear<br>• results not clear             | • (much) too long or pace too high<br>• too much detail in slides<br>• no logical order<br>• no blance between different aspects of the presentation<br>• visuals (graphs, tables, and illustartions) are unclear or not supporting the content           | • not giving answer to the questions                                 |
-| 3. Good      | • research focus/question<br>• clear description of methods<br>• clear discussion of theoretical relevance/impact<br>• results somewhat clear | • good timing, and structure<br>• useful visuals, but might still need more explanation<br>• reasonable balance between different aspects of the presentation                                                                                             | • giving relevant answers to most questions, but room for improvment |
-| 4. Excellent | • research focus/question<br>• clear description of methods<br>• clear discussion of theoretical relevance/impact<br>• results somewhat clear | • highly poolished presentation<br>• prefect timing, and structure<br>• each visual is very clear and supports the overal story<br>• great balance between different aspects of the presentation<br>• well focussed: no disctractions from the main point | • giving good answers to all questions                               |
