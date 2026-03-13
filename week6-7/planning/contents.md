@@ -94,58 +94,65 @@ You can use one of the projects proposed by us, but if you do so, your final pro
 
 ### Rubrik
 
-* Technical effort (30%)
-    0. No effort
-    1. Limited
-        * very small or incomplete technical contribution
-        * major flaws in implementation or analysis
-        * results are not interpretable
-    2. Basic
-        * a working but simple implementation or analysis
-        * mostly reproducing course material or examples
-        * limited experimentation or evaluation
-        * low code quality (code requires significant effort to run / no documentation)
-        * no clear frame for analysis (e.g., lack of baselines, usable metrics, etc.)
-    3. Good
-        * clear and non trivial technical work (e.g., implementing/combining methods, meaningful experiments, clear baselines or references)
-        * code/analysis is mostly correct, reproducible, and well explained
-    4. Excellent
-        * technically solid and ambitious work (e.g., thoughtful comparisons, clear baselines, careful evaluation, or clever adaptation of methods)
-* Theoretical justification & understanding of impact (30%)
-    0. No effort
-    1. Limited
-        * no, incorrect or very incomplete justification for design choices
-        * no explicit connection to course materials 
-    2. Basic
-        * justification present but abstract and rather superficial
-        * justifications mentioned in all design choices, no missing justifications throughout design
-        * more than one reference to course materials used in reference. 
-    3. Good
-        * clear justification for all individual design choices
-        * choices are mostly correct and make sense in the context of the design choice
-        * course materials mentioned AND interpreted in the context of the specific RS
-    4. Excellent
-        * justification for all individual design choices particularly convincing
-        * course material used for all justifications
-        * critical thinking particularly well demonstrated (by, for example, discussing both immediate and long-term considerations or broader implications)
-* Integration of 1 and 2
-    0. No effort
-    1. Limited
-        * technical and conceptual parts are mostly separate 
-    2. Basic
-        * superfical links between methods, results, and theoretical foundations
-        * conclusions strongly over interpret what was actually done
-    3. Good
-        * research question/focus, concepts, methods, and results clearly align
-        * findings and design choices are clearly grounded in theory
-        * some reflection on limitations of technical approach
-    4. Excellent
-        * very tight integration: 
-            * theory motivates metrics/algorithms, 
-            * technical findings asupport or challenge the theory
-            * one coherent narrative
-        * full understanding of limitations and design trade offs
-* Presentation (20%)
+# Technical effort (30%)
+
+0. No effort
+1. Limited
+    * very small or incomplete technical contribution
+    * major flaws in implementation or analysis
+    * results are not interpretable
+2. Basic
+    * a working but simple implementation or analysis
+    * mostly reproducing course material or examples
+    * limited experimentation or evaluation
+    * low code quality (code requires significant effort to run / no documentation)
+    * no clear frame for analysis (e.g., lack of baselines, usable metrics, etc.)
+3. Good
+    * clear and non trivial technical work (e.g., implementing/combining methods, meaningful experiments, clear baselines or references)
+    * code/analysis is mostly correct, reproducible, and well explained
+4. Excellent
+    * technically solid and ambitious work (e.g., thoughtful comparisons, clear baselines, careful evaluation, or clever adaptation of methods)
+
+# Theoretical justification & understanding of impact (30%)
+
+0. No effort
+1. Limited
+    * no, incorrect or very incomplete justification for design choices
+    * no explicit connection to course materials 
+2. Basic
+    * justification present but abstract and rather superficial
+    * justifications mentioned in all design choices, no missing justifications throughout design
+    * more than one reference to course materials used in reference. 
+3. Good
+    * clear justification for all individual design choices
+    * choices are mostly correct and make sense in the context of the design choice
+    * course materials mentioned AND interpreted in the context of the specific RS
+4. Excellent
+    * justification for all individual design choices particularly convincing
+    * course material used for all justifications
+    * critical thinking particularly well demonstrated (by, for example, discussing both immediate and long-term considerations or broader implications)
+
+### Integration of 1 and 2 (20%)
+
+0. No effort
+1. Limited
+    * technical and conceptual parts are mostly separate 
+2. Basic
+    * superfical links between methods, results, and theoretical foundations
+    * conclusions strongly overinterpret what was actually done
+3. Good
+    * research question/focus, concepts, methods, and results clearly align
+    * findings and design choices are clearly grounded in theory
+    * some reflection on limitations of technical approach
+4. Excellent
+    * very tight integration: 
+        * theory motivates metrics/algorithms, 
+        * technical findings asupport or challenge the theory
+        * one coherent narrative
+    * full understanding of limitations and design trade offs
+
+### Presentation (20%)
+
     0. No effort
     2. Basic
         * content
@@ -190,11 +197,3 @@ You can use one of the projects proposed by us, but if you do so, your final pro
 
 
 
-
-| Level        | Technical effort (30%)                                                                                                                                                                                                                                                                                                               | Theoretical justification & understanding of impact (30%)                                                                                                                                                                                                                                              | Integration of 1 and 2                                                                                                                                                                                                                                | Presentation (20%)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0. No effort | 0. No effort                                                                                                                                                                                                                                                                                                                         | 0. No effort                                                                                                                                                                                                                                                                                           | 0. No effort                                                                                                                                                                                                                                          | 0. No effort                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 1. Limited   | 1. Limited<br><br>* very small or incomplete technical contribution<br>* major flaws in implementation or analysis<br>* results are not interpretable                                                                                                                                                                                | 1. Limited<br><br>* no, incorrect or very incomplete justification for design choices<br>* no explicit connection to course materials                                                                                                                                                                  | 1. Limited<br><br>* technical and conceptual parts are mostly separate                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 2. Basic     | 2. Basic<br><br>* a working but simple implementation or analysis<br>* mostly reproducing course material or examples<br>* limited experimentation or evaluation<br>* low code quality (code requires significant effort to run / no documentation)<br>* no clear frame for analysis (e.g., lack of baselines, usable metrics, etc.) | 2. Basic<br><br>* justification present but abstract and rather superficial<br>* justifications mentioned in all design choices, no missing justifications throughout design<br>* more than one reference to course materials used in reference.                                                       | 2. Basic<br><br>* superfical links between methods, results, and theoretical foundations<br>* conclusions strongly over interpret what was actually done                                                                                              | 2. Basic<br><br>* content<br>    * research focus/question unclear<br>    * method and desgin unclear<br>    * theoretical relevance/impact unclear<br>    * results not clear<br>* slides and planning<br>    * (much) too long or pace too high<br>    * too much detail in slides<br>    * no logical order<br>    * no blance between different aspects of the presentation<br>    * visuals (graphs, tables, and illustartions) are unclear or not supporting the content<br>* interaction<br>    * not giving answer to the questions                             |
-| 3. Good      | 3. Good<br><br>* clear and non trivial technical work (e.g., implementing/combining methods, meaningful experiments, clear baselines or references)<br>* code/analysis is mostly correct, reproducible, and well explained                                                                                                           | 3. Good<br><br>* clear justification for all individual design choices<br>* choices are mostly correct and make sense in the context of the design choice<br>* course materials mentioned AND interpreted in the context of the specific RS                                                            | 3. Good<br><br>* research question/focus, concepts, methods, and results clearly align<br>* findings and design choices are clearly grounded in theory<br>* some reflection on limitations of technical approach                                      | 3. Good<br><br>* content<br>    * research focus/question<br>    * clear description of methods<br>    * clear discussion of theoretical relevance/impact<br>    * results somewhat clear<br>* slides and planning<br>    * good timing, and structure<br>    * useful visuals, but might still need more explanation<br>    * reasonable balance between different aspects of the presentation<br>* interaction<br>    * giving relevant answers to most questions, but room for improvment                                                                            |
-| 4. Excellent | 4. Excellent<br><br>* technically solid and ambitious work (e.g., thoughtful comparisons, clear baselines, careful evaluation, or clever adaptation of methods)                                                                                                                                                                      | 4. Excellent<br><br>* justification for all individual design choices particularly convincing<br>* course material used for all justifications<br>* critical thinking particularly well demonstrated (by, for example, discussing both immediate and long-term considerations or broader implications) | 4. Excellent<br><br>* very tight integration:<br>    * theory motivates metrics/algorithms,<br>    * technical findings asupport or challenge the theory<br>    * one coherent narrative<br>* full understanding of limitations and design trade offs | 3. Excellent<br><br>* content<br>    * research focus/question<br>    * clear description of methods<br>    * clear discussion of theoretical relevance/impact<br>    * results somewhat clear<br>* slides and planning<br>    * highly poolished presentation<br>    * prefect timing, and structure<br>    * each visual is very clear and supports the overal story<br>    * great balance between different aspects of the presentation<br>    * well focussed: no disctractions from the main point<br>* interaction<br>    * giving good answers to all questions |
