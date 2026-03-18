@@ -27,6 +27,7 @@ De tentamenstof bevat:
 **Deel a.**
 
 We hebben een verzameling documenten die ieder uit een enkele zin bestaan.
+
 * **Zin 1**: Vlijtige graven maken hun eigen huisjes.
 * **Zin 2**: Gekke graven graven hun eigen huisjes.
 * **Zin 3**: Morbide graven graven hun eigen graven.
@@ -81,7 +82,7 @@ $$
 A\cdot B = C
 $$
 
-Wat is de matrix $C$?
+Wat is de matrix $$C$$?
 
 
 **Deel b.**
@@ -110,7 +111,7 @@ Y =
 \end{bmatrix}
 $$
 
-We hebben de matrices $A$ en $B$ verkregen door $Y$ te factoriseren. Wat is de beste waarde die op de plek van het vraagteken (?) kan staan? Beargumenteer.
+We hebben de matrices $$A$$ en $$B$$ verkregen door $$Y$$ te factoriseren. Wat is de beste waarde die op de plek van het vraagteken (?) kan staan? Beargumenteer.
 
 ### Vraag
 
@@ -153,7 +154,7 @@ Naast deze twee resultaten hebben we ook de gemiddelde afstand berekend voor een
 Wat betekenen deze diversiteitswaarden?
 
 ### Vraag
-Is matrixvermenigvuldiging commutatief? Met andere woorden: is voor twee matrices **A** en **B** het product **A • B** hetzelfde als **B • A**? Waarom wel of waarom niet?
+Is matrixvermenigvuldiging commutatief? Met andere woorden: is voor twee matrices $$A$$ en $$B$$ het product $$A \cdot B$$ hetzelfde als $$B \cdot A$$? Waarom wel of waarom niet?
 
 ### Vraag
 We hebben een *KNN-regressiealgoritme* dat beoordelingen voorspelt op een schaal van 1 tot 10. Voor aanbevelingen gebruiken we een drempelwaarde van 7,5. Het algoritme heeft een lage *precision*, maar een hoge *recall* voor onze aanbevelingen. Wat zouden we kunnen doen om de *precision* te verbeteren? En welk effect zou dat hebben op de *recall*? Leg uit waarom.
