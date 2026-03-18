@@ -8,7 +8,7 @@ Het tentamen is een schriftelijk (pen en papier) tentamen en bestaat uit voornam
 
 De tentamenstof bevat:
 
-- de begrippen uit de modules 1 t/m 5, bestaande uit:
+- de begrippen uit alle notebooks, bestaande uit:
     - de conceptuele uitleg
     - de behandelde algoritmes
     - de gebruikte similarity- en evaluatiematen
