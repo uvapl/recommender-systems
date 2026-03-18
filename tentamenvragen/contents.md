@@ -22,7 +22,9 @@ De tentamenstof bevat:
 
 ## Oefenvragen
 
-### Vraag
+De vragen hieronder geven je een beeld van het *soort* vragen dat je kan verwachten. Het echte tentamen zal wel andere specifieke onderwerpen bevragen en meer vragen bevatten. Beantwoord vragen kort maar krachtig. Betrek geen onnodige details in je antwoorden. In veel gevallen zullen een paar zinnen volstaan. 
+
+### Vraag 1
 
 **Deel a.**
 
@@ -56,7 +58,7 @@ Geef de *TF-IDF-vectorisatie* van de drie zinnen.
 
 Leg in woorden kort uit waarom word2vec vaak een betere vecorisatie geeft dan TF-IDF.
 
-### Vraag
+### Vraag 2
 
 **Deel a.**
 
@@ -113,7 +115,7 @@ $$
 
 We hebben de matrices $$A$$ en $$B$$ verkregen door $$Y$$ te factoriseren. Wat is de beste waarde die op de plek van het vraagteken (?) kan staan? Beargumenteer.
 
-### Vraag
+### Vraag 3
 
 Hieronder zie je een bekende functie die een diversiteits *metric* berekent op basis van gebruikersdata uit een nieuwsrecommendersysteem. Van elke gebruiker weten we welke artikelen aan hen zijn aanbevolen, en van die artikelen op welke zij hebben geklikt.
 
@@ -146,36 +148,36 @@ Leg uit wat diversiteit betekent. Wat zegt een hoge of lage diversiteit over een
 
 De resultaten van bovenstaande functie zijn als volgt:
 
-    Diversiteit van aangeklikte “gelikete” artikelen: **1.150**
-    Diversiteit van aanbevolen artikelen: **1.206**
+    Diversiteit van aangeklikte “gelikete” artikelen: 1.150
+    Diversiteit van aanbevolen artikelen: 1.206
 
 Naast deze twee resultaten hebben we ook de gemiddelde afstand berekend voor een groep gebruikers in combinatie met willekeurige artikelen. Dit leidde tot een baseline-diversiteit van 1.67.
 
 Wat betekenen deze diversiteitswaarden?
 
-### Vraag
+### Vraag 4
 Is matrixvermenigvuldiging commutatief? Met andere woorden: is voor twee matrices $$A$$ en $$B$$ het product $$A \cdot B$$ hetzelfde als $$B \cdot A$$? Waarom wel of waarom niet?
 
-### Vraag
+### Vraag 5
 We hebben een *KNN-regressiealgoritme* dat beoordelingen voorspelt op een schaal van 1 tot 10. Voor aanbevelingen gebruiken we een drempelwaarde van 7,5. Het algoritme heeft een lage *precision*, maar een hoge *recall* voor onze aanbevelingen. Wat zouden we kunnen doen om de *precision* te verbeteren? En welk effect zou dat hebben op de *recall*? Leg uit waarom.
 
 
-### Vraag
+### Vraag 6
 Strava is een fitness-app voor hardlopen, fietsen of wandelen. Wanneer je sport, registreert de app je route op een kaart, samen met optionele gegevens zoals je hartslag. Daarna kun je je sportsessie delen met andere mensen die de Strava-app hebben, samen met foto’s en opmerkingen.
 
 Noem **drie verschillende soorten data** die Strava direct kan registreren.
 
-### Vraag
+### Vraag 7
 Wat is gatekeeping? En waarin verschilt algoritmische gatekeeping van traditionele gatekeeping?
 
-### Vraag
+### Vraag 8
 Mejias & Couldry (2019) beschrijven dataficatie als een circulair proces in twee stappen.
 
 1. Noem de twee stappen van dit proces. 
 2. Leg kort uit wat elke stap inhoudt.
 
 
-### Vraag
+### Vraag 9
 
 Automatisering maakt inmiddels deel uit van ons dagelijks leven, of we ons daarvan bewust zijn of niet. We hebben twee domeinen besproken waarin automatisering duidelijk zichtbaar is in het dagelijks leven: de samenleving (*society*) en de media. Kies één van deze twee domeinen en bespreek dit aan de hand van de volgende onderdelen:
 
