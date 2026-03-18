@@ -124,7 +124,8 @@ grades:
             technische_kwaliteit: integer
             kritische_reflectie: integer
             integratie: integer
-        calculation: "1 + [technische_kwaliteit + kritische_reflectie, 7].min + integratie"
+            presentatie: integer
+        calculation: "1 + (technische_kwaliteit * 3 + kritische_reflectie * 3 + integratie * 2 + presentatie * 2) * 9 / 40"
         is_test: true     
 
     tentamen: *manual_exam
