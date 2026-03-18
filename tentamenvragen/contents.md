@@ -17,7 +17,7 @@ De tentamenstof bevat:
     - De technische hoorcolleges (Simon)
     - De theoretische hoorcolleges (Dina)
 - het leesmateriaal:
-    - hoofdstuk 1 en 2 van Aggarwal: [link](/week2/aggarbookwal-1-2)
+    - hoofdstuk 1 en 2 van Aggarwal: [link](/week2/book-1-2)
     - hoofdstuk 7 van Aggarwal: [link](/week5/book-7)
 
 ## Oefenvragen
