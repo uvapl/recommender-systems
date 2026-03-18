@@ -89,7 +89,12 @@ Wat is de matrix $$C$$?
 
 **Deel b.**
 
-Voor matrixfactorisatie hebben we de matrices $$A$$, $$B$$, en $$\hat{Y}$$. We hebben de vergelijking, $$A \cdot B = \hat{Y}$$. We weten dat de matrix $$\hat{Y}$$, 6 rijen en 8 kolommen heeft. Verder weten we dat de matrix $$A$$, 6 rijen en 5 kolommen heeft. Hoeveel rijen en kolommen heeft $$B$$?
+* Voor matrixfactorisatie hebben we de matrices $$A$$, $$B$$, en $$\hat{Y}$$. 
+* We hebben de vergelijking, $$A \cdot B = \hat{Y}$$. 
+* We weten dat de matrix $$\hat{Y}$$, 6 rijen en 8 kolommen heeft. 
+* Verder weten we dat de matrix $$A$$, 6 rijen en 5 kolommen heeft. 
+
+Hoeveel rijen en kolommen heeft $$B$$?
 
 **Deel c.**
 
@@ -165,7 +170,12 @@ We hebben een *KNN-regressiealgoritme* dat beoordelingen voorspelt op een schaal
 ### Vraag 6
 Strava is een fitness-app voor hardlopen, fietsen of wandelen. Wanneer je sport, registreert de app je route op een kaart, samen met optionele gegevens zoals je hartslag. Daarna kun je je sportsessie delen met andere mensen die de Strava-app hebben, samen met foto’s en opmerkingen.
 
-Noem **drie verschillende soorten data** die Strava direct kan registreren.
+**Deel a.** 
+Noem drie verschillende soorten data die Strava direct kan registreren.
+
+**Deel b.** 
+Voortbouwend op je antwoorden op de vorige vraag: noem nog drie ander soorteen datat die (alleen) via *proxies* kunnen worden afgeleid. Leg voor elke proxy uit hoe die inferentie kan worden gemaakt.
+
 
 ### Vraag 7
 Wat is gatekeeping? En waarin verschilt algoritmische gatekeeping van traditionele gatekeeping?
