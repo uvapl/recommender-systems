@@ -24,7 +24,7 @@ templates:
         type: float
         subgrades:
             punten: integer
-        calculation: punten * 9.0 / 54.0 + 1.0
+        calculation: punten * 9.0 / 84.0 + 1.0
         is_test: true
 
     3: &participation_check
