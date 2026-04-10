@@ -169,7 +169,7 @@ hertentamen:
     show_progress: true
     minimum: 5.5
     submits:
-        tentamen: 1
+        hertentamen: 1
 
 calculation:
     eindcijfer:
