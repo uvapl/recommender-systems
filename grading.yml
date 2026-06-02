@@ -20,7 +20,7 @@ templates:
         hide_subgrades: false
         hide_calculated: false
 
-    2: &manual_exam2
+    2: &manual_exam
         type: float
         subgrades:
             punten: integer
