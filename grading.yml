@@ -20,11 +20,18 @@ templates:
         hide_subgrades: false
         hide_calculated: false
 
-    2: &manual_exam
+    2: &manual_exam2
         type: float
         subgrades:
             punten: integer
         calculation: punten * 9.0 / 84.0 + 1.0
+        is_test: true
+
+    2: &manual_exam2
+        type: float
+        subgrades:
+            punten: integer
+        calculation: punten * 9.0 / 90.0 + 1.0
         is_test: true
 
     3: &participation_check
@@ -39,7 +46,7 @@ grades:
         <<: *manual_discuss
         calculation: "afgetekend == -1 && [(punten) * 9.0 / 23 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min || 0"
         deadline: 04/02/26 23:59
-    
+
     evaluation:
         <<: *manual
         calculation: "[(punten) * 9.0 / 11 + 1, veel_te_laat == -1 && 1 || 10, dag_te_laat == -1 && 7 || 10, vier_dagen_te_laat == -1 && 5.5 || 10].min"
@@ -128,12 +135,12 @@ grades:
             integratie: integer
             presentatie: integer
         calculation: "1.0 + ((technische_kwaliteit * 3 + kritische_reflectie * 3 + integratie * 2 + presentatie * 2) / 40.0) * 9.0"
-        is_test: true     
+        is_test: true
 
     tentamen: *manual_exam
-    hertentamen: *manual_exam
+    hertentamen: *manual_exam2
 
-    
+
 
 programmeeropdrachten:
     show_progress: true
@@ -147,7 +154,7 @@ programmeeropdrachten:
         matrices: 1
         factorisatie: 1
         diversity: 1
-        
+
 participatie:
     show_progress: true
     submits:
@@ -160,13 +167,13 @@ eindproject:
     show_progress: true
     submits:
         eindproject: 1
-        
+
 tentamen:
     show_progress: true
     minimum: 5.5
     submits:
         tentamen: 1
-  
+
 hertentamen:
     show_progress: true
     minimum: 5.5
@@ -184,4 +191,3 @@ calculation:
         participatie: 10
         eindproject: 25
         hertentamen: 40
-
